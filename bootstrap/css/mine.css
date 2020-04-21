@@ -1,0 +1,56 @@
+/*style untuk page awal (netlaundry.php)*/
+.img
+{
+	width: 50px;
+	height: 50px;
+	border-radius: 10px;
+}
+.nb
+{
+	background-color: #145374;
+	color: white;
+	background-attachment: fixed;
+	
+}
+/*.bgg dipindahin di pagenya langsung
+{
+	background-image: url('<?php echo base_url();?>bootstrap/img/mesin1.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: repeat;
+	background-position: fixed;
+}*/
+.divjumbo1
+{
+	margin-top: 15px;
+	background-color:rgba(0,0,0,0.9);
+}
+
+.kard
+{
+	background-color:transparent; /*rgba(68,68,68,0.8)*/
+	color: white;
+	border: 1px solid;
+	border-top: none;
+	border-bottom: none;
+	border-right: none;
+	border-left: none;
+	border-color: black;
+}
+p:hover
+{
+	background-color: #d4210d;
+	border-radius: 10px;
+}
+
+b:hover
+{
+	background-color: #d4210d;
+	border-radius: 10px;
+}
+marquee:hover
+{
+	background-color: #d4210d;
+	border-radius: 10px;
+}
+/*Ahnir style untuk page awal (netlaundry.php)*/
